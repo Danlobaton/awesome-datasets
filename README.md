@@ -6,7 +6,7 @@ This list is a collection of high-quality data-sets that could be useful for you
 
 Most of the data sets listed below are free with a few exceptions. If you happen to find a broken link or corrupted data set please feel free submit a PR (: Data thrives inside community.
 
-* ⭐️ I am good
+* 🌤 I am good
 * ⛈ Please fix me
 
 #### Table of Contents
