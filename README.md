@@ -4,7 +4,7 @@
 
 This list is a collection of high-quality data-sets that could be useful for your next project or to improve your current product. Maybe you're just bored and want to take a look at mass data repos. Whatever your reason may be to come here, there is something for everyone.
 
-Most of the data sets listed below are free with a few exceptions. If you happen to find a broken link or corrupted data set please feel free submit a PR (: Data thrives inside community.
+Most of the data sets listed below are free with a few exceptions. If you happen to find a broken link or corrupted data set please feel free submit a PR (: Data thrives in community.
 
 * 🌤 I am good
 * ⛈ Please fix me
