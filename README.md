@@ -10,3 +10,7 @@ Most of the data sets listed below are free with a few exceptions. If you happen
 * ⛈ Please fix me
 
 #### Table of Contents
+* Healthcare
+* Self-driving
+* Historical Events
+
